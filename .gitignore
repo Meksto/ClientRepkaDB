@@ -1,2 +1,5 @@
 CMakeFiles
 c_build
+build
+spdlog
+.vscode
